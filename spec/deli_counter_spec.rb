@@ -1,3 +1,3 @@
 katz_deli = ["Ada", "Grace", "Kent"]
 counter = 2
-katz_delieach
+katz_deli.each do
